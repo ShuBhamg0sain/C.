@@ -10,5 +10,10 @@
 
 ![Click here book.pdf](https://github.com/ShuBhamg0sain/C./blob/main/C/thecbook.pdf)
 
+# Examples
+![example 1](https://github.com/ShuBhamg0sain/)
+
+
+# problems
 ![problem solving](https://github.com/ShuBhamg0sain/c_problems)
 
