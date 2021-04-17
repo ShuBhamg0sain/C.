@@ -1,5 +1,7 @@
 # course
 # C. language
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/C./main/C/images%20(3).jpeg)
+
 ![Click here pdf1](https://github.com/ShuBhamg0sain/C./blob/main/C/Computer%20Programming.pdf)
  
 ![Click here pdf2](https://github.com/ShuBhamg0sain/C./blob/main/C/cprogramming_tutorial%20(1).pdf)
