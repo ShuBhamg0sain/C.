@@ -1,6 +1,6 @@
 # course
 # C. language
-![ ](https://raw.githubusercontent.com/ShuBhamg0sain/C./main/C/images%20(3).jpeg)
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/C./main/C/IMG_20210417_132919.jpg)
 
 ![Click here pdf1](https://github.com/ShuBhamg0sain/C./blob/main/C/Computer%20Programming.pdf)
  
