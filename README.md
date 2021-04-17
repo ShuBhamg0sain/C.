@@ -11,7 +11,7 @@
 ![Click here book.pdf](https://github.com/ShuBhamg0sain/C./blob/main/C/thecbook.pdf)
 
 # Examples
-![example 1](https://github.com/ShuBhamg0sain/)
+![example 1](https://raw.githubusercontent.com/ShuBhamg0sain/C./main/C/ex1.c)
 
 
 # problems
